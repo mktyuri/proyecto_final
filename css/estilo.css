@@ -1,0 +1,116 @@
+.h1 {
+    color: darkblue;
+}
+
+.card-title {
+    color: darkred;
+}
+
+.magia {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.form-group {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     min-height: 8vh;
+}   
+
+.form-asoc {
+    text-align: center;
+}
+
+.logo {
+    width: 100px; height: 100px;
+  }
+
+  .img-logo {
+    width: 100px; height: 100px;
+  }
+
+  .container-2 {
+    background: #ffffff;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+  }
+
+  #h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    font: uppercase;
+    font-weight: bold;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+#history {
+    text-align: center;
+}
+
+#parrafos {
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#parrafos-2 {
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.card-qs {
+    margin:auto;
+}
+
+.iconos {
+    height: 80px;
+    width: 80px;
+    padding: 8px;
+}
+
+footer {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: white;
+    box-sizing: border-box;
+}
+
+main {
+    margin-bottom: 30px;
+}
+
+.izquierdo{
+    text-align: left;
+
+}
+
+#texto-menu {
+    color: blue;
+}
+
+#texto-menu-2 {
+    color: blue;
+}
+
+#texto-menu-3 {
+    color: blue;
+}
+
+#boton-cv {
+    position: relative;
+    left: 46%;    
+}
